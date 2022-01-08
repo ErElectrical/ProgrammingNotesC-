@@ -1,0 +1,15 @@
+C:\Users\as\Desktop\.net\GenricsConcept\GenricsConcept\bin\Debug\net6.0\GenricsConcept.exe
+C:\Users\as\Desktop\.net\GenricsConcept\GenricsConcept\bin\Debug\net6.0\GenricsConcept.deps.json
+C:\Users\as\Desktop\.net\GenricsConcept\GenricsConcept\bin\Debug\net6.0\GenricsConcept.runtimeconfig.json
+C:\Users\as\Desktop\.net\GenricsConcept\GenricsConcept\bin\Debug\net6.0\GenricsConcept.dll
+C:\Users\as\Desktop\.net\GenricsConcept\GenricsConcept\bin\Debug\net6.0\ref\GenricsConcept.dll
+C:\Users\as\Desktop\.net\GenricsConcept\GenricsConcept\bin\Debug\net6.0\GenricsConcept.pdb
+C:\Users\as\Desktop\.net\GenricsConcept\GenricsConcept\obj\Debug\net6.0\GenricsConcept.csproj.AssemblyReference.cache
+C:\Users\as\Desktop\.net\GenricsConcept\GenricsConcept\obj\Debug\net6.0\GenricsConcept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\as\Desktop\.net\GenricsConcept\GenricsConcept\obj\Debug\net6.0\GenricsConcept.AssemblyInfoInputs.cache
+C:\Users\as\Desktop\.net\GenricsConcept\GenricsConcept\obj\Debug\net6.0\GenricsConcept.AssemblyInfo.cs
+C:\Users\as\Desktop\.net\GenricsConcept\GenricsConcept\obj\Debug\net6.0\GenricsConcept.csproj.CoreCompileInputs.cache
+C:\Users\as\Desktop\.net\GenricsConcept\GenricsConcept\obj\Debug\net6.0\GenricsConcept.dll
+C:\Users\as\Desktop\.net\GenricsConcept\GenricsConcept\obj\Debug\net6.0\ref\GenricsConcept.dll
+C:\Users\as\Desktop\.net\GenricsConcept\GenricsConcept\obj\Debug\net6.0\GenricsConcept.pdb
+C:\Users\as\Desktop\.net\GenricsConcept\GenricsConcept\obj\Debug\net6.0\GenricsConcept.genruntimeconfig.cache
