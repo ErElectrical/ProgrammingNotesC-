@@ -1,0 +1,15 @@
+C:\Users\as\Desktop\.net\AnonymosMethod\AnonymosMethod\bin\Debug\net6.0\AnonymosMethod.exe
+C:\Users\as\Desktop\.net\AnonymosMethod\AnonymosMethod\bin\Debug\net6.0\AnonymosMethod.deps.json
+C:\Users\as\Desktop\.net\AnonymosMethod\AnonymosMethod\bin\Debug\net6.0\AnonymosMethod.runtimeconfig.json
+C:\Users\as\Desktop\.net\AnonymosMethod\AnonymosMethod\bin\Debug\net6.0\AnonymosMethod.dll
+C:\Users\as\Desktop\.net\AnonymosMethod\AnonymosMethod\bin\Debug\net6.0\ref\AnonymosMethod.dll
+C:\Users\as\Desktop\.net\AnonymosMethod\AnonymosMethod\bin\Debug\net6.0\AnonymosMethod.pdb
+C:\Users\as\Desktop\.net\AnonymosMethod\AnonymosMethod\obj\Debug\net6.0\AnonymosMethod.csproj.AssemblyReference.cache
+C:\Users\as\Desktop\.net\AnonymosMethod\AnonymosMethod\obj\Debug\net6.0\AnonymosMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\as\Desktop\.net\AnonymosMethod\AnonymosMethod\obj\Debug\net6.0\AnonymosMethod.AssemblyInfoInputs.cache
+C:\Users\as\Desktop\.net\AnonymosMethod\AnonymosMethod\obj\Debug\net6.0\AnonymosMethod.AssemblyInfo.cs
+C:\Users\as\Desktop\.net\AnonymosMethod\AnonymosMethod\obj\Debug\net6.0\AnonymosMethod.csproj.CoreCompileInputs.cache
+C:\Users\as\Desktop\.net\AnonymosMethod\AnonymosMethod\obj\Debug\net6.0\AnonymosMethod.dll
+C:\Users\as\Desktop\.net\AnonymosMethod\AnonymosMethod\obj\Debug\net6.0\ref\AnonymosMethod.dll
+C:\Users\as\Desktop\.net\AnonymosMethod\AnonymosMethod\obj\Debug\net6.0\AnonymosMethod.pdb
+C:\Users\as\Desktop\.net\AnonymosMethod\AnonymosMethod\obj\Debug\net6.0\AnonymosMethod.genruntimeconfig.cache
