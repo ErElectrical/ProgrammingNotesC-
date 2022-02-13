@@ -1,0 +1,15 @@
+C:\Users\as\Desktop\.net\DelegatesIntroduction\DelegatesIntroduction\bin\Debug\net6.0\DelegatesIntroduction.exe
+C:\Users\as\Desktop\.net\DelegatesIntroduction\DelegatesIntroduction\bin\Debug\net6.0\DelegatesIntroduction.deps.json
+C:\Users\as\Desktop\.net\DelegatesIntroduction\DelegatesIntroduction\bin\Debug\net6.0\DelegatesIntroduction.runtimeconfig.json
+C:\Users\as\Desktop\.net\DelegatesIntroduction\DelegatesIntroduction\bin\Debug\net6.0\DelegatesIntroduction.dll
+C:\Users\as\Desktop\.net\DelegatesIntroduction\DelegatesIntroduction\bin\Debug\net6.0\ref\DelegatesIntroduction.dll
+C:\Users\as\Desktop\.net\DelegatesIntroduction\DelegatesIntroduction\bin\Debug\net6.0\DelegatesIntroduction.pdb
+C:\Users\as\Desktop\.net\DelegatesIntroduction\DelegatesIntroduction\obj\Debug\net6.0\DelegatesIntroduction.csproj.AssemblyReference.cache
+C:\Users\as\Desktop\.net\DelegatesIntroduction\DelegatesIntroduction\obj\Debug\net6.0\DelegatesIntroduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\as\Desktop\.net\DelegatesIntroduction\DelegatesIntroduction\obj\Debug\net6.0\DelegatesIntroduction.AssemblyInfoInputs.cache
+C:\Users\as\Desktop\.net\DelegatesIntroduction\DelegatesIntroduction\obj\Debug\net6.0\DelegatesIntroduction.AssemblyInfo.cs
+C:\Users\as\Desktop\.net\DelegatesIntroduction\DelegatesIntroduction\obj\Debug\net6.0\DelegatesIntroduction.csproj.CoreCompileInputs.cache
+C:\Users\as\Desktop\.net\DelegatesIntroduction\DelegatesIntroduction\obj\Debug\net6.0\DelegatesIntroduction.dll
+C:\Users\as\Desktop\.net\DelegatesIntroduction\DelegatesIntroduction\obj\Debug\net6.0\ref\DelegatesIntroduction.dll
+C:\Users\as\Desktop\.net\DelegatesIntroduction\DelegatesIntroduction\obj\Debug\net6.0\DelegatesIntroduction.pdb
+C:\Users\as\Desktop\.net\DelegatesIntroduction\DelegatesIntroduction\obj\Debug\net6.0\DelegatesIntroduction.genruntimeconfig.cache
